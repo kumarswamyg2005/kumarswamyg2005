@@ -1,16 +1,28 @@
-<h1 align="center">Kumaraswamy G</h1>
-<p align="center">AI / ML Engineer &nbsp;·&nbsp; Full-Stack Developer</p>
+<!-- Banner: subtle animated wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Kumaraswamy%20G&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=68&descSize=16&animation=fadeIn" alt="header" />
+</p>
+
+<!-- Typing intro -->
+<p align="center">
+  <a href="https://github.com/kumarswamyg2005">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Designing+production-grade+ML+systems;Building+reliable+software+end-to-end" alt="typing" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="mailto:kumarswamy.g2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kumarswamy.g2005%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nagakumaraswamy.g23@iiits.in">
+    <img src="https://img.shields.io/badge/Email-nagakumaraswamy.g23%40iiits.in-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/kumarswamyg2005">
     <img src="https://img.shields.io/badge/GitHub-kumarswamyg2005-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+</p>
 
 ### About
 
@@ -39,6 +51,10 @@ React, Next.js, Node.js, Express, Tailwind CSS, EJS, Flutter
 **Infrastructure**
 PostgreSQL, MongoDB, MySQL, Firebase, Docker, Git, GitHub Actions, AWS, Linux
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,js,ts,react,nextjs,nodejs,express,tailwind,flutter,dart,cpp,java,mongodb,postgres,mysql,firebase,docker,aws,git,linux&perline=12&theme=dark" alt="skills" />
+</p>
+
 ---
 
 ### Selected Projects
@@ -63,11 +79,19 @@ A full list of repositories is available [here](https://github.com/kumarswamyg20
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarswamyg2005&theme=github-compact&hide_border=true&area=true" alt="Contribution activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarswamyg2005&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarswamyg2005/kumarswamyg2005/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
 
 ### Contact
 
-The fastest way to reach me is by [email](mailto:kumarswamy.g2005@gmail.com). For collaborations and code, see my [repositories](https://github.com/kumarswamyg2005?tab=repositories).
+The fastest way to reach me is by [email](mailto:nagakumaraswamy.g23@iiits.in). For collaborations and code, see my [repositories](https://github.com/kumarswamyg2005?tab=repositories).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer&animation=fadeIn" alt="footer" />
+</p>
