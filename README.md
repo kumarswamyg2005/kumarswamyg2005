@@ -63,8 +63,12 @@ A full list of repositories is available [here](https://github.com/kumarswamyg20
 ### GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarswamyg2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=480" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarswamyg2005&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide_title=true" alt="Top languages" />
+  <a href="https://github.com/kumarswamyg2005">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kumarswamyg2005&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/kumarswamyg2005">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarswamyg2005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  </a>
 </p>
 
 <p align="center">
