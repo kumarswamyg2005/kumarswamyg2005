@@ -1,21 +1,21 @@
 <!-- KUMARASWAMY G — GITHUB PROFILE README -->
 
-<!-- HEADER venom slash with neon gradient -->
+<!-- HEADER: slice cut, deep space gradient, clean neon text — no blob -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0d0d,50:0a0a2e,100:000000&text=Kumaraswamy%20G&fontColor=00f5ff&fontSize=72&fontAlignY=55&stroke=7f00ff&strokeWidth=2&animation=fadeIn&desc=AI%20%2F%20ML%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Builder&descAlignY=75&descSize=20&descColor=ffffff" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:0d1117,100:161b27&text=Kumaraswamy%20G&fontColor=00f5ff&fontSize=68&fontAlignY=50&fontAlign=35&rotate=0&stroke=7f00ff&strokeWidth=2&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20Full-Stack%20%20%E2%80%A2%20%20Builder&descAlignY=72&descAlign=36&descSize=18&descColor=c9d1d9&animation=fadeIn" alt="header" />
 </p>
 
-<!-- Neon typing animation -->
+<!-- Neon cyan typing animation — terminal style -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=50&lines=%3E+AI+%2F+ML+Engineer_%3B;%3E+Full-Stack+Developer_%3B;%3E+Building+production-grade+ML+systems_%3B;%3E+Designing+intelligent+software_%3B;%3E+Always+shipping%2C+always+learning_%3B" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%3E_+AI+%2F+ML+Engineer%3B%3E_+Full-Stack+Developer%3B%3E_+Building+production-grade+ML+systems%3B%3E_+Designing+intelligent+software%3B%3E_+Always+shipping%2C+always+learning" alt="typing" />
 </p>
 
 <p align="center">
   <a href="mailto:nagakumaraswamy.g23@iiits.in">
-    <img src="https://img.shields.io/badge/nagakumaraswamy.g23%40iiits.in-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff&color=0d1117&labelColor=0d1117" alt="email" />
+    <img src="https://img.shields.io/badge/nagakumaraswamy.g23%40iiits.in-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=0d1117" alt="email" />
   </a>
   <a href="https://github.com/kumarswamyg2005">
-    <img src="https://img.shields.io/badge/kumarswamyg2005-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&color=0d1117&labelColor=0d1117" alt="github" />
+    <img src="https://img.shields.io/badge/kumarswamyg2005-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117" alt="github" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ $ cat about.txt
   Motto    : "Build fast. Break things. Fix them. Ship."
 ```
 
-<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623135312f313534313538303631313632342d5445363451474b524a4738535741495553374e432f6b6531375a77644742354b586b4865467758763848485176616a32366a6f456c4d73694c35335a70383039574e756665724c616b4d6555395659554a384b6464756c6a6272714c52315a5a3235357657346e4b4d32385879565a78794477396b637159634b6741774561555977792f636f64696e672d667265616b2e676966" />
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - Building production-grade AI products end-to-end — from model training to deployed apps.
 - Designing ML systems for healthcare, finance, agriculture, and environmental monitoring.
@@ -136,7 +136,7 @@ Currently exploring LLMs, RAG pipelines, MLOps, and scalable cloud-native archit
 
 <p align="right">
   <a href="https://github.com/kumarswamyg2005?tab=repositories">
-    <img src="https://img.shields.io/badge/All_repositories_→-7f00ff?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/All_repositories_%E2%86%92-7f00ff?style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
 
@@ -145,11 +145,11 @@ Currently exploring LLMs, RAG pipelines, MLOps, and scalable cloud-native archit
 ### `> git log --activity`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarswamyg2005&bg_color=0d0d0d&color=00f5ff&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarswamyg2005&bg_color=0d1117&color=00f5ff&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarswamyg2005&theme=tokyonight-duo&hide_border=true&background=0D0D0D&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=7F00FF&dates=7F00FF" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=kumarswamyg2005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=7F00FF&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </p>
 
 <p align="center">
@@ -169,7 +169,6 @@ Currently exploring LLMs, RAG pipelines, MLOps, and scalable cloud-native archit
   </a>
 </p>
 
-<!-- Footer venom cut -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:000000,50:0a0a2e,100:0d0d0d&section=footer&animation=fadeIn" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:161b27,100:0d1117&section=footer&reversal=true&animation=fadeIn" alt="footer" />
 </p>
