@@ -1,8 +1,8 @@
 <!-- KUMARASWAMY G — GITHUB PROFILE README -->
 
-<!-- HEADER: waving type — no geometry cuts through text, clean neon on dark -->
+<!-- HEADER: waving, NO stroke (stroke causes glyph artifacts), pure neon cyan fill -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,40:0a0f2e,100:0d1117&text=Kumaraswamy%20G&fontColor=00f5ff&fontSize=64&fontAlignY=45&stroke=7f00ff&strokeWidth=2&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20Full-Stack%20%20%E2%80%A2%20%20Builder&descAlignY=68&descSize=18&descColor=c9d1d9&animation=twinkling" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:0c1535,100:0d1117&text=Kumaraswamy%20G&fontColor=00f5ff&fontSize=64&fontAlignY=45&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20Full-Stack%20%20%E2%80%A2%20%20Builder&descAlignY=68&descSize=18&descColor=8be9fd&animation=twinkling" alt="header" />
 </p>
 
 <!-- Neon cyan typing animation — terminal style -->
@@ -152,12 +152,12 @@ Currently exploring LLMs, RAG pipelines, MLOps, and scalable cloud-native archit
   <img src="https://streak-stats.demolab.com?user=kumarswamyg2005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF&sideLabels=7F00FF&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </p>
 
-<!-- Animated snake — the GitHub Action generates this SVG which animates a snake eating your contributions -->
+<!-- Animated contribution snake — neon cyan snake eating your green squares -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumarswamyg2005/kumarswamyg2005/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumarswamyg2005/kumarswamyg2005/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/kumarswamyg2005/kumarswamyg2005/output/github-contribution-grid-snake-dark.svg" alt="animated contribution snake" />
+    <img alt="animated contribution snake" src="https://raw.githubusercontent.com/kumarswamyg2005/kumarswamyg2005/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
@@ -175,5 +175,5 @@ Currently exploring LLMs, RAG pipelines, MLOps, and scalable cloud-native archit
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,40:0a0f2e,100:0d1117&section=footer&animation=twinkling" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:0c1535,100:0d1117&section=footer&animation=twinkling" alt="footer" />
 </p>
