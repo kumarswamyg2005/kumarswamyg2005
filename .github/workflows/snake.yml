@@ -17,13 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG and animated GIF
         uses: Platane/snk@v3
         with:
           github_user_name: kumarswamyg2005
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.gif?color_snake=00f5ff&color_dots=#0d1117,#0a1628,#0e2845,#1a4a7a,#2563a8
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
